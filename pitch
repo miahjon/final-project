@@ -20,4 +20,6 @@ The program will accept a player's unsorted inventory through user input, Sort i
 
 -- The best outcome for this software would be an in-game mod that scans the player's current inventory and auto-sorts it with the click of a button, based on their preferences.
 
-For this project, I struggled trying to figure out how to do the entire inventory, so I settled to just organize the hotbar instead. Hope you enjoy
+
+** PLEASE READ **
+For this project, I struggled trying to figure out how to do the entire inventory, so I settled to just organize the hotbar instead through a puzzle. Hope you enjoy
