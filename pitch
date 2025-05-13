@@ -1,0 +1,23 @@
+This was my original pitch:
+
+- Jeremiah's Perfect Inventory (Minecraft Inventory Organizer)
+My software will sort and organize a player's inventory for an efficient trip to the mines. 
+The program will accept a player's unsorted inventory through user input, Sort it according to my personal preference for a hotbar and inventory setup, and output the sorted inventory.
+
+-- The key features would be:
+1. Input function - allows users to input their current, unsorted, hotbar and inventory setup.
+2. Sort function - sorts items based on logical categories (consumables, blocks, weapons)
+3. Output function - places items in their designated slots and displays the sorted inventory the user.
+
+-- Skills that it would require:
+1. Working with lists
+2. Working with loops
+3. Accepting/denying different user inputs
+
+-- A good outcome for this software would be a software that correctly sorts a given inventory to my personal liking. I would judge this software based on its usability; if I wouldn't personally use it then it failed.
+
+-- A better outcome for this software would include a GUI that would make user input a lot simpler and user friendly rather than inputting text into a terminal.
+
+-- The best outcome for this software would be an in-game mod that scans the player's current inventory and auto-sorts it with the click of a button, based on their preferences.
+
+For this project, I struggled trying to figure out how to do the entire inventory, so I settled to just organize the hotbar instead. Hope you enjoy
